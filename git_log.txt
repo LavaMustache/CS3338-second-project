@@ -1,0 +1,38 @@
+commit abb7fceff48ce1ce1bcf8066986c323f79d57db4
+Author: Alejandro Villanueva <alejandrovillanue14@gmail.com>
+Date:   Thu Feb 5 18:45:54 2026 -0800
+
+    Add favorite movie/game div on index-fix branch
+
+commit bae61372d30f04905bf35c92afc466fc4d25abb2
+Author: Alejandro Villanueva <alejandrovillanue14@gmail.com>
+Date:   Thu Feb 5 18:44:05 2026 -0800
+
+    Add favorite food div on main
+
+commit 24e448586960c7c91265d9796a4bbea1cbf4c123
+Author: Alejandro Villanueva <alejandrovillanue14@gmail.com>
+Date:   Thu Feb 5 18:28:51 2026 -0800
+
+    Add README file describing the repo
+
+commit 954fb880ae338cb49e6b1427994fd846640fc5e8
+Merge: 1d2bfc0 0c10ece
+Author: Alejandro Villanueva <104921588+LavaMustache@users.noreply.github.com>
+Date:   Thu Feb 5 18:24:11 2026 -0800
+
+    Merge pull request #1 from LavaMustache/info-fill
+    
+    Fill in missing info in index.html
+
+commit 0c10eceaf24477a7b70dc72c6c1bf0d91878a1de
+Author: Alejandro Villanueva <alejandrovillanue14@gmail.com>
+Date:   Thu Feb 5 16:18:20 2026 -0800
+
+    Fill in missing info in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
